@@ -16,7 +16,7 @@
 
 @implementation MasterViewController
 {
-    
+    UIImage *image;
 }
 
 - (void)awakeFromNib
